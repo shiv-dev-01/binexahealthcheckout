@@ -1,0 +1,17 @@
+{
+  "name": "BinexaHealth",
+  "siteId": "421",
+  "widgetId": "",
+  "wlmdBackendUrl": "",
+  "domain": "member.binexahealth.com",
+  "apiPath": "/unified_proxy",
+  "websiteUrl": "https://binexahealth.com/",
+  "logo": "/logo/binexahealth.png",
+  "favicon": "/logo/binexahealthfavicon.ico",
+  "colors": {
+    "primary": "#007c7e",
+    "primaryHover": "#006668",
+    "primaryLight": "#E6F5F5",
+    "primaryText": "#FFFFFF"
+  }
+}
